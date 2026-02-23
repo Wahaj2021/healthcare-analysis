@@ -61,6 +61,4 @@ The dataset includes variables related to:
 - Key variables strongly influence healthcare outcomes.
 - Data highlights opportunities for preventive interventions.
 
----
 
-Example:
