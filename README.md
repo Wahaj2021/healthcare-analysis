@@ -34,8 +34,6 @@ The dataset includes variables related to:
 - Outcome indicators
 - Time-based information
 
-> Dataset used strictly for educational and portfolio purposes.
-
 ---
 
 ##  Data Cleaning & Preparation
@@ -64,9 +62,5 @@ The dataset includes variables related to:
 - Data highlights opportunities for preventive interventions.
 
 ---
-
-## 📊 Power BI Dashboard
-
-> Add screenshots inside an `images/` folder.
 
 Example:
